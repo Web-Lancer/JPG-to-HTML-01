@@ -1,3 +1,7 @@
+.container {
+    width: 1000px;
+}
+
 .navbar {
     background-color: rgb(61, 61, 61);
 }
@@ -11,3 +15,35 @@
 .nav-link {
     color: #fff;
 }
+
+.nav-link:hover {
+    color: rgb(115, 201, 201);
+}
+
+.navbar-brand:hover {
+    color: aqua;
+}
+
+.lh {
+    line-height: 15px;
+}
+
+.dotted {
+    color: rgb(189, 182, 182);
+    line-break: 10p;
+}
+
+.card {
+    background-color: rgb(1, 158, 255);
+    color: #fff;
+}
+
+.card h4 {
+    text-align: center;
+}
+
+.part-1 {
+    width: 48%;
+}
+
+.part-2{width: 48%;}
